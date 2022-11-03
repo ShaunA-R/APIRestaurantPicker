@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iR++RZ8IcoAYufN5IXZbRlkmvHqj/H28YZDLs5H+juY=",
+  "Source": "APIRestaurantPicker",
+  "BasePath": "_content/APIRestaurantPicker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
